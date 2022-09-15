@@ -6,3 +6,4 @@ please check out the attached pdf for project visualization
 
 prashant : https://eu1.ca.analytics.ibm.com/bi/?perspective=home&folder=iC4EE957270C24F639E99F462E8722020
 somesh : https://us1.ca.analytics.ibm.com/bi/?perspective=home&folder=i26A34ABA15154998A5DBA30AF51E8BF7
+Thameem Ansari : https://eu1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.public_folders%2Fassignment1%2FNew%2Bexploration
